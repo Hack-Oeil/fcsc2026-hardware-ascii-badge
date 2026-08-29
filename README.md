@@ -1,4 +1,4 @@
-# FCSC 2025 ASCII Badge
+# FCSC 2026 ASCII Badge
 
 Votre ami a configuré [son badge Hackropole](https://github.com/FCSC-FR/hackropole-badge/tree/61d627868d038e7277b8fd4fc4294c639a5fc889) pour encoder un flag sur les 8 LED. Profitant qu’il ait le dos tourné, vous dumpez sauvagement le micrologiciel de sa carte.
 
